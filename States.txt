@@ -1,0 +1,50 @@
+- (c1)(pc) arrived
+- Connection 1 : c1 Occupied
+- Connection 1 : c1 Login
+- c1 Perform Online Activity
+- (c1)(pc) arrived
+- Connection 2 : c1 Occupied
+- (c1)(pc) arrived
+- Connection 1 : c1 Occupied
+- (c1)(pc) arrived and waiting
+- Connection 1 : c1 Occupied
+- (c1)(pc) arrived and waiting
+- Connection 1 : c1 Occupied
+- (c1)(pc) arrived and waiting
+- Connection 2 : c1 Occupied
+- Connection 2 : c1 Login
+- c1 Perform Online Activity
+- (c1)(pc) arrived
+- Connection 2 : c1 Occupied
+- (c1)(pc) arrived and waiting
+- Connection 1 : c1 Occupied
+- (c1)(pc) arrived and waiting
+- Connection 2 : c1 Occupied
+- (c1)(pc) arrived and waiting
+- Connection 2 : c1 Occupied
+- Connection 1 : c1 Logged Out
+- Connection 1 : c1 Login
+- c1 Perform Online Activity
+- Connection 2 : c1 Logged Out
+- Connection 1 : c1 Login
+- c1 Perform Online Activity
+- Connection 1 : c1 Logged Out
+- Connection 1 : c1 Login
+- c1 Perform Online Activity
+- Connection 1 : c1 Logged Out
+- Connection 2 : c1 Login
+- c1 Perform Online Activity
+- Connection 1 : c1 Logged Out
+- Connection 2 : c1 Login
+- c1 Perform Online Activity
+- Connection 2 : c1 Logged Out
+- Connection 1 : c1 Login
+- c1 Perform Online Activity
+- Connection 2 : c1 Logged Out
+- Connection 2 : c1 Login
+- c1 Perform Online Activity
+- Connection 1 : c1 Logged Out
+- Connection 2 : c1 Login
+- c1 Perform Online Activity
+- Connection 2 : c1 Logged Out
+- Connection 2 : c1 Logged Out
